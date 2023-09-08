@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/React-Application-Portfolio/static/css/main.45620813.css",
+    "main.js": "/React-Application-Portfolio/static/js/main.cc6b28ae.js",
+    "static/js/787.a2cb61a6.chunk.js": "/React-Application-Portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/movingWatcher.gif": "/React-Application-Portfolio/static/media/movingWatcher.0b34e40a61a46175321b.gif",
+    "static/media/watcher-pokerface.jpg": "/React-Application-Portfolio/static/media/watcher-pokerface.0ab516ae8b156fcd9cca.jpg",
+    "static/media/React-icon.svg.png": "/React-Application-Portfolio/static/media/React-icon.svg.81ed438b18e24116794d.png",
+    "static/media/CV_SampleTrial.pdf": "/React-Application-Portfolio/static/media/CV_SampleTrial.1687e8e45c3185f9263f.pdf",
+    "static/media/cssgod.png": "/React-Application-Portfolio/static/media/cssgod.8ea58d31a9d39dd59031.png",
+    "static/media/4990671.png": "/React-Application-Portfolio/static/media/4990671.448fb2a83595fa5c5c8a.png",
+    "static/media/Jscript.png": "/React-Application-Portfolio/static/media/Jscript.edc1b02f51f37057cb88.png",
+    "static/media/1532556.png": "/React-Application-Portfolio/static/media/1532556.94972f53c025a8fb7e2b.png",
+    "static/media/bootstrap-logo-vector.svg": "/React-Application-Portfolio/static/media/bootstrap-logo-vector.d180fe4cd44732fd70b35f650a76b99c.svg",
+    "index.html": "/React-Application-Portfolio/index.html",
+    "main.45620813.css.map": "/React-Application-Portfolio/static/css/main.45620813.css.map",
+    "main.cc6b28ae.js.map": "/React-Application-Portfolio/static/js/main.cc6b28ae.js.map",
+    "787.a2cb61a6.chunk.js.map": "/React-Application-Portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45620813.css",
+    "static/js/main.cc6b28ae.js"
+  ]
+}
